@@ -1,5 +1,5 @@
 
-# Safety Alert Android App
+# Safety Map Android App
 
 This repository contains the source code for a safety alert mobile app, designed to help users stay aware of potential safety hazards in their vicinity. The app allows users to view, create, and receive alerts on an interactive map regarding safety issues and civic problems, such as stolen bikes, falling plaster, or potholes in the road. The app also sends notifications for nearby hazards and automatically submits civic complaints to the local town hall.
 
